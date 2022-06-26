@@ -15,10 +15,6 @@
 
 ```
 pip install PyQt5
-pip install request
-pip install pymysql
-pip install mysql
-pip install dbutils
 ```
 
 - 项目主入口: main.py

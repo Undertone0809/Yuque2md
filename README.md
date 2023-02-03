@@ -1,3 +1,5 @@
+该项目已迁移至[https://github.com/Undertone0809/md-img-converter](https://github.com/Undertone0809/md-img-converter)
+
 ## Introduction
 
 语雀直接导出的md里面如果有图片，会因为外链问题无法正常显示，需要对图片地址进行一定的修改才可以正常显示该图片，但是如果导出的markdown里面有很多图片，那么这个时候一张一张图片的修改就非常麻烦，该项目基于pyqt的框架做了一个快速转换器，将语雀导出的md文件进行快速转换，让markdown文件中的图片可以正常显示，方便使用。
